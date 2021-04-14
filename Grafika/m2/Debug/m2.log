@@ -1,0 +1,8 @@
+﻿  Program.cpp
+c:\users\mateusz dec\source\repos\grafika\m2\macierz.h(229): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  c:\users\mateusz dec\source\repos\grafika\m2\macierz.h(222): note: while compiling class template member function 'wektor<4> &macierz<4>::operator *(wektor<4> &)'
+  c:\users\mateusz dec\source\repos\grafika\m2\program.cpp(87): note: see reference to function template instantiation 'wektor<4> &macierz<4>::operator *(wektor<4> &)' being compiled
+  c:\users\mateusz dec\source\repos\grafika\m2\przeksztalcenia.h(13): note: see reference to class template instantiation 'macierz<4>' being compiled
+  c:\users\mateusz dec\source\repos\grafika\m2\przeksztalcenia.h(114): note: see reference to class template instantiation 'przeksztalcenia<4>' being compiled
+c:\users\mateusz dec\source\repos\grafika\m2\macierz.h(230): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  m2.vcxproj -> C:\Users\Mateusz Dec\source\repos\Grafika\Debug\m2.exe

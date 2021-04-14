@@ -1,0 +1,4 @@
+﻿  Figures.cpp
+c:\users\mateusz dec\source\repos\grafika\figury\figures.cpp(88): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\mateusz dec\source\repos\grafika\figury\figures.cpp(101): warning C4172: returning address of local variable or temporary: pkts
+  Figury.vcxproj -> C:\Users\Mateusz Dec\source\repos\Grafika\Debug\Figury.exe
