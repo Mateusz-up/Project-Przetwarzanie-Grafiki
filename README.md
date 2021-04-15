@@ -1,2 +1,2 @@
 # Project-Przetwarzanie-Grafiki
-Zadania oparte na macierzach, tworzenie brył geometrycznych
+Matrix-based tasks, creating geometric solids
